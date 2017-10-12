@@ -29,4 +29,4 @@ I have been reading the p5 reference page in order to learn more about each func
 
 This is what my final sketch looked like.
 
-![This is my final hw-4 sketch](images/hw-4_image.jpg)
+![This is my final hw-4 sketch](Images/hw-4_image.jpg)

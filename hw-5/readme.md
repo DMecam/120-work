@@ -36,4 +36,4 @@ In the future, I will be able to control, declare and describe my own variables 
 
 This is what my final sketch looked like.
 
-![This is my final hw-5 sketch](images/hw-5_image.jpg)
+![This is my final hw-5 sketch](Images/hw-5_image.jpg)
