@@ -2,7 +2,7 @@
 
 #### [Live "animation" Sketch](https://dmecam.github.io/120-work/hw-5/)
 
-# Homework week 4
+# Homework week 5
 
 During this week I created an animation with p5. In order to commit it I learned how to use more functions like `mousePressed()`. Also, I learned how to store data, alter data and pass data around with variables (I used pre-defined variables as `windowWidth` and I defined my own variables). Additionally, I learned about the Scope, how to name a variable correctly and the frame rate.
 
