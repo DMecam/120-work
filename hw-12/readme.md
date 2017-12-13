@@ -2,7 +2,7 @@
 
 #### [Interacting Objects Sketch](https://dmecam.github.io/120-work/hw-12/)
 
-# Homework week 11
+# Homework week 12
 
 During this week I learned how to do Interacting objects. Also, I started to separate the classes into different files in order to have a better organization.
 
